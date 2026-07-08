@@ -103,13 +103,7 @@
 - Backend: Render
 - Database: MongoDB Atlas
 
----
 
-## 🏗️ Architecture
-
-
-
----
 
 ## 🚀 Getting Started
 
